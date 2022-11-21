@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a><img src="https://github.com/Roman-Mavrin/desfee/blob/main/Logo.jpg" width="546" alt="desfee" /></a>
+    <a><img src="https://github.com/Roman-Mavrin/desfee/blob/main/Logo.jpg" width="400" alt="desfee" /></a>
   </p>
   <br />
   <p>

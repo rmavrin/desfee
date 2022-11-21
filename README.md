@@ -6,10 +6,12 @@
   <br />
   <p>
     <a><img src="https://img.shields.io/badge/Status-Prototype-red?color=9F3A3A" alt="App status" /></a>
+    <a><img src="https://img.shields.io/badge/Release-Alpha-green?color=69B4AF" alt="App status" /></a>
     <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache--2.0-black?maxAge=3600" alt="License" /></a>
   </p>
 </div>
 
+69B4AF
 
 ## desfee
 desfee – это издание о графическом дизайне, которое дает читателям вдохновение и рассказывает о последних новинках. Журнал доступен только в онлайн-формате, и содержит: статьи о графическом дизайне, полезные сайты, книги и интервью. Ключевой особенностью издания является то, что он преимущественно освещает Российское дизайнерское пространство, а также его применение в обществе.
